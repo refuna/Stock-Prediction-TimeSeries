@@ -2,7 +2,7 @@
 
 ## Overview
 
-**StockPrediction-TimeSeries** is a project designed to predict stock prices using time series analysis, specifically employing the ARIMA (AutoRegressive Integrated Moving Average) model. This project aims to analyze historical stock data to forecast future prices, enabling informed investment decisions.
+It is a project designed to predict stock prices using time series analysis, specifically employing the ARIMA (AutoRegressive Integrated Moving Average) model. This project aims to analyze historical stock data to forecast future prices, enabling informed investment decisions.
 
 ## Features
 
